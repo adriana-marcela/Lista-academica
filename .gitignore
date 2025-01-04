@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos compilados
+*.pyc
+__pycache__/
+
+# Configuración del sistema
+*.log
+*.sqlite3
+
+# Archivos de editor o IDE
+.vscode/
+.idea/
+
+# Archivos grandes o temporales
+*.tmp
+*.bak
+*.swp
+.DS_Store
